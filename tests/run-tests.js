@@ -57,7 +57,7 @@ async function getListFromMaster(name) {
   return new Promise((resolve, reject) =>
     https
       .get(
-        `https://raw.githubusercontent.com/diffusion-fi/tokenlist/main/src/${name}`,
+        `https://raw.githubusercontent.com/verto-dex/tokenlist/main/src/${name}`,
         (res) => {
           let body = "";
 
