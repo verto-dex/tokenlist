@@ -1,9 +1,9 @@
 {
   "name": "VertoDex List",
-  "timestamp": "2022-09-16T00:00:00.000Z",
+  "timestamp": "2022-11-20T00:00:00.000Z",
   "logoURI": "https://app.vertodex.fi/favicon.png",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
