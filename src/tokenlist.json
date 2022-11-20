@@ -3,7 +3,7 @@
   "timestamp": "2022-09-16T00:00:00.000Z",
   "logoURI": "https://app.vertodex.fi/favicon.png",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -269,7 +269,7 @@
       "symbol": "MUSDC",
       "chainId": 3333,
       "decimals": 18,
-      "address": "0xEe427E5C34209bCd33792adFD06B96a1eB0c2323",
+      "address": "0xA41b148AeCa0823292D370f95479C10630eC95CD",
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
     },
     {
@@ -277,7 +277,7 @@
       "symbol": "MREBUS",
       "chainId": 3333,
       "decimals": 18,
-      "address": "0x079CE2b870d56eC31eB5Afcf1399684985424f8C",
+      "address": "0xbAAFeC4B6eF4F5E0bAFA850CBC48364B953EFCf9",
       "logoURI": "https://global-uploads.webflow.com/6257b52d5ba30091f5056b4d/6257bacc8ea23a1d966a6d47_Rebus%20Logo.svg"
     },
     {
@@ -285,7 +285,7 @@
       "symbol": "MATOM",
       "chainId": 3333,
       "decimals": 18,
-      "address": "0x43B0952593184E58fACbbdA2Bf7eD78ceABFBf0A",
+      "address": "0xE7391693bCE3916b31e785bEB962974f75246EC4",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/atom%201.png"
     },
     {
@@ -293,7 +293,7 @@
       "symbol": "MOSMOSIS",
       "chainId": 3333,
       "decimals": 18,
-      "address": "0x182d8b2232b99D60509B1Ccff33E70433Bf4Fc79",
+      "address": "0x8afB841eecf978DCe395eE41410911f8bdD0e515",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/osmo%201.png"
     },
     {
@@ -301,8 +301,16 @@
       "symbol": "VERTO",
       "chainId": 3333,
       "decimals": 18,
-      "address": "0x3E861b25eEc63C577AC28b8a5F3CF8DBF96B9A03",
+      "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
-    }
+    },
+    {
+      "name": "xVerto",
+      "symbol": "xVERTO",
+      "chainId": 3333,
+      "decimals": 18,
+      "address": "0xa5B75a13278D216Bc68a57aa57C138DFAF17Ea49",
+      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/xDIFF.png"
+    },
   ]
 }
