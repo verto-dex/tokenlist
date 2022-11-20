@@ -3,7 +3,7 @@
   "timestamp": "2022-11-20T00:00:00.000Z",
   "logoURI": "https://app.vertodex.fi/favicon.png",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -311,6 +311,6 @@
       "decimals": 18,
       "address": "0xa5B75a13278D216Bc68a57aa57C138DFAF17Ea49",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/xDIFF.png"
-    },
+    }
   ]
 }
